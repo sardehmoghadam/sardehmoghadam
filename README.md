@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Cloud-Azure-green?logo=Microsoft%20Azure">
 <img src="https://img.shields.io/badge/Library-scikit-red">
 <img src="https://img.shields.io/badge/Editor-Pycharm-red?logo=Pycharm">
-
+<img src="https://img.shields.io/badge/Library-Tensorflow-red?logo=Tensorflow">
 </a>
 </p>
 
