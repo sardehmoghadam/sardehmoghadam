@@ -3,6 +3,7 @@
 - 👀 I’m looking to collaborate on cyber defensive projects and working in a purple team.
 - 📫 You can reach me via my linkenin profile that is mentioned in my profile.
 
+### Tools and Environments 🔧
 <p>
 <img src="https://img.shields.io/badge/OS-Windows-organge?logo=Windows">
 <img src="https://img.shields.io/badge/OS-Linux-organge?logo=Linux">
@@ -16,11 +17,24 @@
 </a>
 </p>
 
-
+### Languages and Platforms 🦄
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
+
+### Platforms 👨‍
+<p>
+<a href="https://www.linkedin.com/in/sargupta/">
+<img src="https://img.shields.io/badge/LinkedIn-sargupta-blue">
+<a href="https://www.kaggle.com/sargupta">
+<img src="https://img.shields.io/badge/Kaggle-sargupta-blue">
+<a href="https://medium.com/@sargupta93">
+<img src="https://img.shields.io/badge/Medium-sargupta-blue">
+<a href="https://stackoverflow.com/users/9658895/sargupta?tab=profile">
+<img src="https://img.shields.io/badge/Stack%20Overflow-sargupta-blue">
+</a>
+</p>
 
 <!---
 sardehmoghadam/sardehmoghadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
