@@ -1,10 +1,11 @@
+<p align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C5616AQGTK_ipoB9jVw/profile-displaybackgroundimage-shrink_350_1400/0/1549576777057?e=1648080000&v=beta&t=A4rSMVHsTU4T5Gi0ChSPOML2VG8RIpczAelSA0QPNtY" height="400px" width="1000px">
+</p>
+
 - 👋 Hi, I’m Amin.
 - 🌱 I’m interested in cyber security and work as defensive cyber security expert.
 - 👀 I’m looking to collaborate on cyber defensive projects and working in a purple team.
 - 📫 You can reach me via my linkenin profile that is mentioned in my profile.
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=sardehmoghadam&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sardehmoghadam&layout=compact)
 
 ### Tools and Environments 🔧
 <p>
@@ -47,6 +48,10 @@
 - Creative Thinking
 - Movie and Netflix series
 - Documentary
+
+<!--- ![Github stats](https://github-readme-stats.vercel.app/api?username=sardehmoghadam&theme=highcontrast&show_icons=true&count_private=true) --->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sardehmoghadam&layout=compact)
+
 
 ### Connect with me 👨‍
 <p>
