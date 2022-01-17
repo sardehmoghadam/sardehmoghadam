@@ -24,6 +24,7 @@
 <code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-javascript-is-a-high-level-interpreted-programming-language-logo-shadow-tal-revivo.png"/></code>
 <code><img src="https://img.icons8.com/color-glass/48/000000/css.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/powershell.png"/></code>
 
 
 
