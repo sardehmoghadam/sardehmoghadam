@@ -18,10 +18,11 @@
 </p>
 
 ### Languages and Platforms 🦄
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
 <code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-shadow-tal-revivo.png"/></code>
+<code><img src="https://img.icons8.com/material-outlined/48/000000/django.png"/></code>
+<code><img src="https://img.icons8.com/ios-glyphs/30/000000/html.png"/></code>
+<code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-javascript-is-a-high-level-interpreted-programming-language-logo-shadow-tal-revivo.png"/></code>
+
 
 
 
