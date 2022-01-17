@@ -23,7 +23,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 
-### Platforms 👨‍
+### Connect with me 👨‍
 <p>
 <a href="https://www.linkedin.com/in/amin-sardeh-moghadam/">
 <img src="https://img.shields.io/badge/LinkedIn-SardehMoghadam-blue?logo=LinkedIn">
