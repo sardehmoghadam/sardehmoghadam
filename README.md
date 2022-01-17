@@ -3,7 +3,7 @@
 </p>
 
 - 👋 Hi, I’m Amin.
-- 🌱 I have an acute enthusiasm about cyber security and work as defensive cyber security expert.
+- 🌱 I have an acute enthusiasm about cyber security and work as a defensive cyber security expert.
 - 👀 I’m looking to collaborate on cyber defensive projects and working in a purple team.
 - 📫 You can reach me via my LinkedIn profile that is mentioned in my profile.
 
