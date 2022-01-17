@@ -25,7 +25,7 @@
 
 ### Platforms 👨‍
 <p>
-<a href="https://www.linkedin.com/in/sargupta/">
+<a href="https://www.linkedin.com/in/amin-sardeh-moghadam/">
 <img src="https://img.shields.io/badge/LinkedIn-sargupta-blue">
 <a href="https://www.kaggle.com/sargupta">
 <img src="https://img.shields.io/badge/Kaggle-sargupta-blue">
