@@ -7,13 +7,14 @@
 <p>
 <img src="https://img.shields.io/badge/OS-Windows-organge?logo=Windows">
 <img src="https://img.shields.io/badge/OS-Linux-organge?logo=Linux">
-<img src="https://img.shields.io/badge/OS-Chrome-organge?logo=Chrome">
-<img src="https://img.shields.io/badge/Editor-VSCode-green?logo=Visual%20Studio%20Code">
-<img src="https://img.shields.io/badge/Cloud-Azure-green?logo=Microsoft%20Azure">
-<img src="https://img.shields.io/badge/Library-scikit-red">
+<img src="https://img.shields.io/badge/WAF-Fortiweb-red?logo=Fortinet">
+<img src="https://img.shields.io/badge/CTI-AlienVault OTX-Blue?logo=AlienVault">
+<img src="https://img.shields.io/badge/OSINT-Maltego-black?logo=Maltego">
+<img src="https://img.shields.io/badge/VA-OpenVAS-birghtgreen?logo=OpenVAS"">
 <img src="https://img.shields.io/badge/Editor-Pycharm-red?logo=Pycharm">
-<img src="https://img.shields.io/badge/Library-Tensorflow-red?logo=Tensorflow">
-<img src="https://img.shields.io/badge/Tool-Caldera-purple?logo=protools">
+<img src="https://img.shields.io/badge/SIEM-Splunk-red?logo=Splunk">
+<img src="https://img.shields.io/badge/SOAR-phantom-red?logo=phantom">
+<img src="https://img.shields.io/badge/BAS-Caldera-purple?logo=protools">
 </a>
 </p>
 
