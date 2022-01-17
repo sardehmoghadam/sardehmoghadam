@@ -49,7 +49,7 @@
 - Documentary
 
 ### Connect with me 👨‍
-<p align=center>
+<p>
 <a href="https://www.linkedin.com/in/amin-sardeh-moghadam/">
 <img src="https://img.shields.io/badge/LinkedIn-SardehMoghadam-blue?logo=LinkedIn">
 </a>
