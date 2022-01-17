@@ -12,10 +12,12 @@
 <img src="https://img.shields.io/badge/AV-Kaspersky security center 13-green?logo=Kaspersky">
 <img src="https://img.shields.io/badge/CTI-AlienVault OTX-Blue?logo=AlienVault">
 <img src="https://img.shields.io/badge/OSINT-Maltego-black?logo=Maltego">
+<img src="https://img.shields.io/badge/VA-Nmap-yello?logo=Nmap">
 <img src="https://img.shields.io/badge/VA-OpenVAS-birghtgreen?logo=OpenVAS">
 <img src="https://img.shields.io/badge/VA-Nessus-birghtgreen?logo=Nessus">
 <img src="https://img.shields.io/badge/PT-OWASP ZAP-blue?logo=ZAP">
-<img src="https://img.shields.io/badge/PT-Hydra-green?logo=Nessus">
+<img src="https://img.shields.io/badge/PT-Hydra-green?logo=hydra">
+<img src="https://img.shields.io/badge/PT-Metasploit-black?logo=Metasploit">
 <img src="https://img.shields.io/badge/Editor-Pycharm-red?logo=Pycharm">
 <img src="https://img.shields.io/badge/SIEM-Splunk-red?logo=Splunk">
 <img src="https://img.shields.io/badge/SOAR-phantom-red?logo=splunk">
