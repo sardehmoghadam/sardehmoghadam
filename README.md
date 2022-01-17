@@ -3,7 +3,7 @@
 - 👀 I’m looking to collaborate on cyber defensive projects and working in a purple team.
 - 📫 You can reach me via my linkenin profile that is mentioned in my profile.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sargupta&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sardehmoghadam&layout=compact)
 
 ### Tools and Environments 🔧
 <p>
