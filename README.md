@@ -50,7 +50,8 @@
 
 <p align=center>
 ### Connect with me 👨‍
-
+</p>
+<p align=center>
 <a href="https://www.linkedin.com/in/amin-sardeh-moghadam/">
 <img src="https://img.shields.io/badge/LinkedIn-SardehMoghadam-blue?logo=LinkedIn">
 </a>
