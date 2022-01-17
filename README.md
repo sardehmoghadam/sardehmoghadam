@@ -21,7 +21,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/html.png"></code>
+<code><img height="40" src="<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-shadow-tal-revivo.png"/>"></code>
 
 
 
