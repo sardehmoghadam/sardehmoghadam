@@ -23,18 +23,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/html.png"></code>
 
-### Connect with me 👨‍
-<p>
-<a href="https://www.linkedin.com/in/amin-sardeh-moghadam/">
-<img src="https://img.shields.io/badge/LinkedIn-SardehMoghadam-blue?logo=LinkedIn">
-<a href="https://www.kaggle.com/sargupta">
-<img src="https://img.shields.io/badge/Kaggle-sargupta-blue">
-<a href="https://medium.com/@sargupta93">
-<img src="https://img.shields.io/badge/Medium-sargupta-blue">
-<a href="https://stackoverflow.com/users/9658895/sargupta?tab=profile">
-<img src="https://img.shields.io/badge/Stack%20Overflow-sargupta-blue">
-</a>
-</p>
+
 
 ### Interests 👨‍💻
 - Cyber Security
@@ -44,7 +33,12 @@
 - Movie and Netflix series
 - Documentary
 
-  
+### Connect with me 👨‍
+<p>
+<a href="https://www.linkedin.com/in/amin-sardeh-moghadam/">
+<img src="https://img.shields.io/badge/LinkedIn-SardehMoghadam-blue?logo=LinkedIn">
+</a>
+</p>  
   
 <!---
 sardehmoghadam/sardehmoghadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
