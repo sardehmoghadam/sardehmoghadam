@@ -48,8 +48,9 @@
 - Movie and Netflix series
 - Documentary
 
+<p align=center>
 ### Connect with me 👨‍
-<p>
+
 <a href="https://www.linkedin.com/in/amin-sardeh-moghadam/">
 <img src="https://img.shields.io/badge/LinkedIn-SardehMoghadam-blue?logo=LinkedIn">
 </a>
