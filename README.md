@@ -36,6 +36,16 @@
 </a>
 </p>
 
+### Interests 👨‍💻
+- Cyber Security
+- Artificial Intelligence
+- Startup
+- Creative Thinking
+- Movie and Netflix series
+- Documentary
+
+  
+  
 <!---
 sardehmoghadam/sardehmoghadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
