@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C5616AQGTK_ipoB9jVw/profile-displaybackgroundimage-shrink_350_1400/0/1549576777057?e=1648080000&v=beta&t=A4rSMVHsTU4T5Gi0ChSPOML2VG8RIpczAelSA0QPNtY" height="400px" width="1000px">
+  <img src="https://sardehmoghadam.info/assets/imgs/cybersecurity.jpg" height="400px" width="1000px">
 </p>
 
 - 👋 Hi, I’m Amin.
